@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "Discord RPC Manager"
+  },
+  "connection": {
+    "connected": "Connected",
+    "disconnected": "Disconnected",
+    "warning": "Warning",
+    "clientIdPlaceholder": "Discord Application Client ID",
+    "connect": "Connect",
+    "disconnect": "Disconnect",
+    "clientIdRequired": "Client ID is required",
+    "connectFailed": "Failed to connect",
+    "connectSuccess": "Successfully connected to Discord!",
+    "disconnectSuccess": "Disconnected from Discord"
+  },
+  "tabs": {
+    "activity": "Activity",
+    "profiles": "Profiles",
+    "settings": "Settings"
+  },
+  "activity": {
+    "statusText": "Status Text",
+    "details": "Details",
+    "detailsPlaceholder": "What are you doing?",
+    "state": "State",
+    "statePlaceholder": "Additional info",
+    "images": "Images",
+    "largeImageKey": "Large Image Key",
+    "largeImageKeyPlaceholder": "Image key from Discord",
+    "largeImageText": "Large Image Text",
+    "smallImageKey": "Small Image Key",
+    "smallImageText": "Small Image Text",
+    "hoverText": "Hover text",
+    "timestamp": "Timestamp",
+    "showElapsedTime": "Show elapsed time",
+    "buttons": "Buttons",
+    "buttonsHint": "Buttons are only visible to others, not yourself.",
+    "buttonLabel": "Button label",
+    "buttonUrl": "https://...",
+    "addButton": "+ Add Button",
+    "updateActivity": "Update Activity",
+    "clearActivity": "Clear Activity",
+    "saveProfile": "Save Profile",
+    "saveAsDefault": "Save as Default",
+    "savedAsDefault": "Saved as default settings!",
+    "notConnected": "Not connected to Discord",
+    "updateSuccess": "Activity updated!",
+    "updateFailed": "Failed to update activity",
+    "clearSuccess": "Activity cleared!",
+    "clearFailed": "Failed to clear activity"
+  },
+  "profiles": {
+    "noProfiles": "No saved profiles yet.",
+    "noProfilesHint": "Create a profile from the Activity tab to save your settings.",
+    "noDetails": "No details",
+    "clientId": "Client ID",
+    "load": "Load",
+    "delete": "Delete",
+    "loadSuccess": "Profile loaded!",
+    "saveSuccess": "Profile saved!"
+  },
+  "saveDialog": {
+    "title": "Save Profile",
+    "namePlaceholder": "Profile name",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "settings": {
+    "startup": "Startup",
+    "startWithWindows": "Start with Windows",
+    "startWithWindowsDesc": "Automatically start Discord RPC Manager when you log in.",
+    "autoConnect": "Auto-connect on startup",
+    "autoConnectDesc": "Automatically connect to Discord using the last used Client ID.",
+    "behavior": "Behavior",
+    "minimizeToTray": "Minimize to tray",
+    "minimizeToTrayDesc": "Keep the app running in the system tray when closed.",
+    "language": "Language",
+    "selectLanguage": "Select Language",
+    "languageDesc": "Choose your preferred language.",
+    "about": "About",
+    "version": "Discord RPC Manager v1.0.0",
+    "description": "A simple tool to customize your Discord Rich Presence."
+  },
+  "languages": {
+    "en": "English",
+    "ko": "한국어"
+  },
+  "preview": {
+    "title": "Preview",
+    "username": "Username",
+    "online": "Online",
+    "offline": "Offline",
+    "playingGame": "PLAYING A GAME",
+    "appName": "Your Application",
+    "elapsed": "elapsed",
+    "button": "Button",
+    "noActivity": "Set up your activity to see preview",
+    "availableAssets": "Available Assets"
+  }
+}

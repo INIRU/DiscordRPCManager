@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "Discord RPC 관리자"
+  },
+  "connection": {
+    "connected": "연결됨",
+    "disconnected": "연결 안됨",
+    "warning": "경고",
+    "clientIdPlaceholder": "Discord 애플리케이션 Client ID",
+    "connect": "연결",
+    "disconnect": "연결 해제",
+    "clientIdRequired": "Client ID를 입력해주세요",
+    "connectFailed": "연결에 실패했습니다",
+    "connectSuccess": "Discord에 연결되었습니다!",
+    "disconnectSuccess": "Discord 연결이 해제되었습니다"
+  },
+  "tabs": {
+    "activity": "활동",
+    "profiles": "프로필",
+    "settings": "설정"
+  },
+  "activity": {
+    "statusText": "상태 텍스트",
+    "details": "세부 정보",
+    "detailsPlaceholder": "무엇을 하고 있나요?",
+    "state": "상태",
+    "statePlaceholder": "추가 정보",
+    "images": "이미지",
+    "largeImageKey": "큰 이미지 키",
+    "largeImageKeyPlaceholder": "Discord에서 설정한 이미지 키",
+    "largeImageText": "큰 이미지 텍스트",
+    "smallImageKey": "작은 이미지 키",
+    "smallImageText": "작은 이미지 텍스트",
+    "hoverText": "호버 텍스트",
+    "timestamp": "타임스탬프",
+    "showElapsedTime": "경과 시간 표시",
+    "buttons": "버튼",
+    "buttonsHint": "버튼은 다른 사람에게만 보이고, 본인에게는 보이지 않습니다.",
+    "buttonLabel": "버튼 라벨",
+    "buttonUrl": "https://...",
+    "addButton": "+ 버튼 추가",
+    "updateActivity": "활동 업데이트",
+    "clearActivity": "활동 지우기",
+    "saveProfile": "프로필 저장",
+    "saveAsDefault": "기본값으로 저장",
+    "savedAsDefault": "기본 설정으로 저장되었습니다!",
+    "notConnected": "Discord에 연결되어 있지 않습니다",
+    "updateSuccess": "활동이 업데이트되었습니다!",
+    "updateFailed": "활동 업데이트에 실패했습니다",
+    "clearSuccess": "활동이 초기화되었습니다!",
+    "clearFailed": "활동 초기화에 실패했습니다"
+  },
+  "profiles": {
+    "noProfiles": "저장된 프로필이 없습니다.",
+    "noProfilesHint": "활동 탭에서 프로필을 만들어 설정을 저장하세요.",
+    "noDetails": "세부 정보 없음",
+    "clientId": "Client ID",
+    "load": "불러오기",
+    "delete": "삭제",
+    "loadSuccess": "프로필을 불러왔습니다!",
+    "saveSuccess": "프로필이 저장되었습니다!"
+  },
+  "saveDialog": {
+    "title": "프로필 저장",
+    "namePlaceholder": "프로필 이름",
+    "save": "저장",
+    "cancel": "취소"
+  },
+  "settings": {
+    "startup": "시작",
+    "startWithWindows": "Windows와 함께 시작",
+    "startWithWindowsDesc": "로그인할 때 Discord RPC 관리자를 자동으로 시작합니다.",
+    "autoConnect": "시작 시 자동 연결",
+    "autoConnectDesc": "마지막으로 사용한 Client ID로 Discord에 자동 연결합니다.",
+    "behavior": "동작",
+    "minimizeToTray": "트레이로 최소화",
+    "minimizeToTrayDesc": "창을 닫을 때 시스템 트레이에서 앱을 계속 실행합니다.",
+    "language": "언어",
+    "selectLanguage": "언어 선택",
+    "languageDesc": "원하는 언어를 선택하세요.",
+    "about": "정보",
+    "version": "Discord RPC 관리자 v1.0.0",
+    "description": "Discord Rich Presence를 커스터마이즈하는 간단한 도구입니다."
+  },
+  "languages": {
+    "en": "English",
+    "ko": "한국어"
+  },
+  "preview": {
+    "title": "미리보기",
+    "username": "사용자",
+    "online": "온라인",
+    "offline": "오프라인",
+    "playingGame": "게임 플레이 중",
+    "appName": "내 애플리케이션",
+    "elapsed": "경과",
+    "button": "버튼",
+    "noActivity": "미리보기를 보려면 활동을 설정하세요",
+    "availableAssets": "사용 가능한 이미지"
+  }
+}
